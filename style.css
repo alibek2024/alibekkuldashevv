@@ -1,0 +1,346 @@
+.body {
+  background-color: #fff;
+}
+
+.get {
+  background-color: black;
+  border-radius: 25px;
+  color: white;
+}
+.navbar {
+  width: 100%;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 190px;
+}
+.navcenter {
+  display: flex;
+  justify-content: end;
+  gap: 60px;
+  /* margin-right: 120px; */
+}
+.navstart {
+  display: flex;
+  justify-content: start;
+  /* margin-top: 30px; */
+  /* margin-left: 130px; */
+}
+
+.middle {
+  width: 100%;
+  height: 800px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ece7e4;
+}
+.rasmh {
+  width: 50%;
+  /* display: flex; */
+  /* justify-content:right ; */
+  /* justify-content: space-between; */
+}
+.house {
+  width: 100%;
+  height: 800px;
+}
+.mid {
+  /* width: 100%; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  width: 50%;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 120px;
+}
+.big {
+  font-size: 60px;
+  text-align: left;
+  /* display: flex;
+ gap: 50px; */
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.weare {
+  color: rgb(108, 110, 110);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.centerr {
+  width: 493px;
+  height: 482px;
+  margin-left: 700px;
+}
+
+.our {
+  margin-left: 420px;
+  position: absolute;
+}
+.imgg {
+  width: 84px;
+  height: 84px;
+  margin-right: 650px;
+  display: inline-block;
+}
+.step {
+  position: absolute;
+  right: 550px;
+  top: 1490px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+}
+.sticker {
+  width: 300px;
+  height: 90px;
+}
+.senior {
+  position: absolute;
+  right: 560px;
+  top: 1510px;
+  color: gray;
+}
+.ccenter {
+  background-image: url(https://media.designcafe.com/wp-content/uploads/2021/03/12184919/white-bedroom-with-big-windows-and-transparent-curtains.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+.yozuv {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 1800px;
+}
+.reading {
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.process {
+  display: flex;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  color: gray;
+}
+.how {
+  display: flex;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
+.logos {
+  /* width: 1168px;
+height: 259px; */
+  top: 122px;
+  left: 16px;
+  gap: 0px;
+  opacity: 0px;
+
+  display: flex;
+  justify-content: space-around;
+}
+.sketch {
+  width: 117px;
+  height: 102px;
+  left: 130px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 90px;
+  text-align: center;
+}
+.loremm {
+  width: 294px;
+  height: 96px;
+  top: 36px;
+  left: 42px;
+  gap: 0px;
+  opacity: 0px;
+  text-align: center;
+}
+.sket {
+  text-align: center;
+}
+
+.sketcht {
+  width: 117px;
+  height: 102px;
+  left: 130px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 90px;
+}
+.sketchtt {
+  width: 117px;
+  height: 102px;
+  left: 130px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 90px;
+}
+.lst {
+  background-image: url(https://www.stairs-siller.com/fileadmin/_processed_/d/c/csm_modern_stringer_staircase_white_with_glass_railing_787f02be06.jpg);
+  width: 100%;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+.head {
+  padding: 20px;
+  width: 300px;
+}
+.read {
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.bla {
+  width: 100%;
+  height: 410px;
+  top: 3373px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  justify-content: center;
+  background-color: #403e3b;
+}
+.blaa {
+  width: 1168px;
+  height: 290px;
+  top: 60px;
+  left: 136px;
+  padding: 0px 144px 0px 0px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  justify-content: center;
+}
+.write {
+  width: 460px;
+  height: 160px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.log {
+  width: 432px;
+  height: 290px;
+  left: 592px;
+  gap: 0px;
+  opacity: 0px;
+}
+.last {
+  background-image: url(https://img.freepik.com/free-vector/3d-stairs-white-staircase-blank-wall_107791-2629.jpg);
+  width: 100%;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.ccc {
+  padding: 20px;
+  width: 300px;
+  margin-left: 50px;
+}
+.lll {
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.featured {
+  margin-top: 70px;
+  margin-left: 60px;
+}
+.flat1 {
+  width: 379px;
+  height: 460px;
+  border-radius: 15px;
+}
+.flat {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  padding-top: 40px;
+}
+.view {
+  text-align: center;
+  padding-top: 50px;
+}
+.meet {
+  width: 378.66px;
+  height: 392px;
+}
+.see {
+  margin-left: 10px;
+}
+.siu {
+  width: 84px;
+  height: 84px;
+  top: 8px;
+  left: 0.33px;
+  gap: 0px;
+  border-radius: 50%;
+}
+.siuu {
+  width: 773.33px;
+  height: 392px;
+  left: 394.67px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  justify-content: center;
+
+  gap: 200px;
+  margin-left: 50px;
+}
+.kattasi {
+  width: 1168px;
+  height: 392px;
+  top: 5401px;
+  left: 136px;
+  display: flex;
+  justify-content: center;
+}
+.birinchi {
+  flex-direction: column;
+}
+.qqq {
+  width: 280px;
+  height: 100px;
+  display: flex;
+  gap: 15px;
+}
+.oxirgi {
+  background-color: #cec4bc;
+  width: 100%;
+
+  height: 314px;
+  gap: 0px;
+  opacity: 0px;
+}
+.neww {
+  position: relative;
+  bottom: 450px;
+  margin-left: 20px;
+}
+.air {
+  position: relative;
+  bottom: 140px;
+  margin-left: 30px;
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+}
